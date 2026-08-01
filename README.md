@@ -1,10 +1,9 @@
--> learn function defining 
--> use of *args
--> use of **kwargs
--> use of returns
+first_phase :
+-> 
 
-## 
+second_phase :
 
--> learn map function
--> learn filter function
--> learn reduce function
+
+third_phase :
+
+
